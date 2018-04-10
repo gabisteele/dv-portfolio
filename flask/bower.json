@@ -1,0 +1,17 @@
+{
+  "name": "flask",
+  "homepage": "https://github.com/WeConnect/data_science",
+  "authors": [
+    "daniel.salas <daniel.salas@wework.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
